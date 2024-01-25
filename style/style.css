@@ -153,3 +153,48 @@ nav .container .row ul li a{
 #about .work .work-4 i{
     font-size: 50px;
 }
+
+
+#service{
+    background-image: url(../images/services.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 730px;
+}
+#service .container{
+    width: 1170px;
+    margin: auto;
+}
+#service .container h2{
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    font-size: 46px;
+    font-weight: bold;
+    color: #02918c;
+    padding-top: 35px;
+}
+#service .container h4{
+    font-size: 16px;
+    padding-top: 20px;
+}
+#service .container p{
+    font-size: 16px;
+    padding-top: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+#service .work{
+    display: flex;
+    column-gap: 40px;
+    padding-top: 25px;
+}
+#service .work .work-1-2{
+    display: flex;
+    flex-direction: column;
+}
+#service .work i{
+    font-size: 50px;
+}
+#service .work .work-24{
+    padding-top: 25px;
+}
